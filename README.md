@@ -2,7 +2,7 @@
 First class project
 
 Project Title
-	•	Education Level vs Salary
+	•	Majors vs Salary
 
 Team
 	•	TAKTical Data Consulting
@@ -14,31 +14,21 @@ Team Members
 	•	Tobi Andrade
 
 Project Description/Outline
-We will be analyzing degree types is worth the pay. We will be comparing different degree fields and whether if receiving a bachelors, masters, or doctorates in that specific field is worth it by comparing income and debt collected over a five-year range. 
+	We will be analyzing whether going to college and receiving a degree is "worth it". We will be comparing different degrees and degree fields and whether if receiving a bachelors or graduate degree in that specific field is worth it by comparing income, and also the number of people with a degree that are in jobs that do not require college degrees. 
 
 Research Question to Answer
-	Does receiving a higher degree in different fields result in a higher return on investment.
+	Does your degree gurantee economic success?
 
 What questions are we asking?
-A historical look
-	•	How has post-secondary education changed in America over the last 50 years. What are the most popular degrees? 
-	•	How has the labor market in America changed in the last 50 years. What are the most popular jobs / occupations?
-	•	How has average income changed over the last 50 years? (Adjust for inflation)How has the cost of college changed over the last 50 years? (Adjust for inflation)
-	•	What is the employment rate over the last 50 years?
-A contemporary look
-	•	What are the most popular degrees by State?
-	•	What are the most popular jobs / industries by State?
-	•	Student-debt in America: which States have the most student-debt?
-	•	Which degrees have the least student debt?
-	•	Where are the most advanced-degrees located in the country? 
-	•	Which states / cities have the most advanced degrees?
-	•	What is the employment rate by State?
-	•	Gender cohort analysis 
-
+	1. What are the 10 highest paying degrees?
+	2. What are the 10 lowest paying degrees?
+	3. At what point does it make sense to skip college? 
+	4. Which college degrees have the largest amount of people working in jobs that do not require a college degree? 
+	
 What kind of data do we want?
-	•	Popularity of college degrees by state, over the last 50 years.
-	•	Popularity of jobs by state, over the last 50 years
-	•	Where are the most advanced degrees
+	1. List of majors and their incomes
+	2. Unemployment rate
+	3. Number of people working in a field that does not require a college degree.
 
 Data Sets to be Used
 	•	Federal Reserve Bank (FRED)
