@@ -22,8 +22,9 @@ Research Question to Answer
 What questions are we asking?
 	1. What are the 10 highest paying degrees?
 	2. What are the 10 lowest paying degrees?
-	3. At what point does it make financial sense to skip college? 
-	4. Which college degrees have the largest amount of people working in jobs that do not require a college degree? 
+	3. How many men and women are pursuing a particular college degree? 
+	4. How does the expected median salary of a particular degree compare with the average salary in Florida?
+	5. Which college degrees have the largest amount of people working in jobs that do not require a college degree? 
 	
 What kind of data do we want?
 	1. List of majors and their incomes
