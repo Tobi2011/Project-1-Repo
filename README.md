@@ -1,4 +1,4 @@
-# Project1-Repo
+# Project-1-Repo
 First class project
 
 Project Title
