@@ -1,0 +1,472 @@
+,occupation_field,occupation_name,non-college count,wage/salary
+0,MGR,General And Operations Managers,9557,66772.16
+1,MGR,Advertising And Promotions Managers,179,57341.48
+2,MGR,Marketing And Sales Managers,4459,64577.7
+3,MGR,Public Relations And Fundraising Managers,114,63470.0
+4,MGR,Administrative Services Managers,1746,55633.66
+5,MGR,Computer And Information Systems Managers,1510,79585.86
+6,MGR,Financial Managers,7638,53927.32
+7,MGR,Compensation And Benefits Managers,83,60123.94
+8,MGR,Human Resources Managers,3722,53228.55
+9,MGR,Training And Development Managers,355,42993.58
+10,MGR,Industrial Production Managers,3352,63593.8
+11,MGR,Purchasing Managers,1356,60359.55
+12,MGR,"Transportation, Storage, And Distribution Managers",4213,47779.6
+13,MGR,"Farmers, Ranchers, And Other Agricultural Managers",22236,46401.03
+14,MGR,Construction Managers,11231,67571.14
+15,MGR,Education Administrators,3457,37404.95
+16,MGR,Architectural And Engineering Managers,405,88943.15
+17,MGR,Food Service Managers,17092,33839.77
+18,MGR,Gaming Managers,347,43561.3
+19,MGR,Lodging Managers,1801,40422.2
+20,MGR,Medical And Health Services Managers,3569,48187.15
+21,MGR,Natural Sciences Managers,22,45236.84
+22,MGR,"Property, Real Estate, And Community Association",7460,44653.82
+23,MGR,Social And Community Service Managers,2126,37023.1
+24,MGR,Emergency Management Directors,44,50794.44
+25,MGR,"Miscellaneous Managers, Including Funeral Service",39810,60351.11
+26,BUS,"Agents And Business Managers Of Artists, Performers,",418,40831.23
+27,BUS,"Buyers And Purchasing Agents, Farm Products",198,43882.63
+28,BUS,"Wholesale And Retail Buyers, Except Farm Products",3563,31069.85
+29,BUS,"Purchasing Agents, Except Wholesale, Retail, And Farm",3355,46978.1
+30,BUS,"Claims Adjusters, Appraisers, Examiners, And",2871,48122.88
+31,BUS,Compliance Officers,1573,50220.95
+32,BUS,Cost Estimators,1958,57285.0
+33,BUS,Human Resources Workers,5188,47122.64
+34,BUS,"Compensation, Benefits, And Job Analysis Specialists",420,46357.11
+35,BUS,Training And Development Specialists,1159,42321.35
+36,BUS,Logisticians,1321,45167.92
+37,BUS,Management Analysts,2893,60473.59
+38,BUS,"Meeting, Convention, And Event Planners",949,28211.37
+39,BUS,Fundraisers,397,22627.94
+40,BUS,Market Research Analysts And Marketing Specialists,954,40989.71
+41,BUS,"Business Operations Specialists, All Other",2080,43873.78
+42,FIN,Accountants And Auditors,5568,40289.91
+43,FIN,Appraisers And Assessors Of Real Estate,727,42440.43
+44,FIN,Budget Analysts,189,64316.77
+45,FIN,Credit Analysts,160,45093.28
+46,FIN,Financial Analysts,321,63816.0
+47,FIN,Personal Financial Advisors,883,71475.23
+48,FIN,Insurance Underwriters,944,53539.89
+49,FIN,Financial Examiners,52,40631.91
+50,FIN,Credit Counselors And Loan Officers,2580,53783.18
+51,FIN,"Tax Examiners And Collectors, And Revenue Agents",692,38180.09
+52,FIN,Tax Preparers,1377,19686.76
+53,FIN,"Financial Specialists, All Other",424,45695.07
+54,CMM,Computer And Information Research Scientists,39,36532.35
+55,CMM,Computer Systems Analysts,1511,58561.76
+56,CMM,Information Security Analysts,204,72900.54
+57,CMM,Computer Programmers,1478,53617.05
+58,CMM,"Software Developers, Applications And Systems Software",1888,71184.68
+59,CMM,Web Developers,780,35739.58
+60,CMM,Computer Support Specialists,4066,44799.43
+61,CMM,Database Administrators,449,50403.38
+62,CMM,Network And Computer Systems Administrators,1022,56830.89
+63,CMM,Computer Network Architects,319,89113.36
+64,CMM,"Computer Occupations, All Other",3115,50760.3
+65,CMM,Operations Research Analysts,503,65754.6
+66,CMM,"Miscellaneous Mathematical Science Occupations,",9,31055.56
+67,ENG,"Architects, Except Naval",228,53034.43
+68,ENG,"Surveyors, Cartographers, And Photogrammetrists",70,68092.0
+69,ENG,Aerospace Engineers,219,70063.0
+70,ENG,Biomedical And Agricultural Engineers,27,45980.95
+71,ENG,Chemical Engineers,117,58767.29
+72,ENG,Civil Engineers,754,61473.79
+73,ENG,Computer Hardware Engineers,127,64374.3
+74,ENG,Electrical And Electronics Engineers,519,68445.33
+75,ENG,Environmental Engineers,79,41317.85
+76,ENG,"Industrial Engineers, Including Health And Safety",939,59183.28
+77,ENG,Marine Engineers And Naval Architects,95,71563.29
+78,ENG,Materials Engineers,123,64506.88
+79,ENG,Mechanical Engineers,699,61690.42
+80,ENG,"Petroleum, Mining And Geological Engineers, Including",158,87103.88
+81,ENG,"Miscellaneous Engineers, Including Nuclear Engineers",1103,67571.53
+82,ENG,Drafters,1257,48170.0
+83,ENG,"Engineering Technicians, Except Drafters",5910,47275.98
+84,ENG,Surveying And Mapping Technicians,1365,42508.73
+85,SCI,Agricultural And Food Scientists,3,40000.0
+86,SCI,Biological Scientists,5,62000.0
+87,SCI,Conservation Scientists And Foresters,1,48000.0
+88,SCI,"Medical Scientists, And Life Scientists, All Other",65,77090.7
+89,SCI,Atmospheric And Space Scientists,24,44378.26
+90,SCI,Chemists And Materials Scientists,75,79666.67
+91,SCI,Environmental Scientists And Geoscientists,5,66633.33
+92,SCI,"Physical Scientists, All Other",8,74057.14
+93,SCI,Economists,4,59333.33
+94,SCI,Psychologists,11,59142.86
+95,SCI,Urban And Regional Planners,35,40929.6
+96,SCI,"Miscellaneous Social Scientists, Including Survey",126,34829.29
+97,SCI,Agricultural And Food Science Technicians,667,39159.02
+98,SCI,Biological Technicians,331,34849.28
+99,SCI,Chemical Technicians,1108,46906.57
+100,SCI,"Geological And Petroleum Technicians, And Nuclear",319,64093.23
+101,SCI,"Miscellaneous Life, Physical, And Social Science",2489,31153.44
+102,CMS,Counselors,3780,21628.45
+103,CMS,Social Workers,3295,32282.18
+104,CMS,Probation Officers And Correctional Treatment,343,36276.95
+105,CMS,Social And Human Service Assistants,2123,25906.07
+106,CMS,"Miscellaneous Community And Social Service Specialists,",949,27626.48
+107,CMS,Clergy,2335,29595.61
+108,CMS,"Directors, Religious Activities And Education",501,25803.64
+109,CMS,"Religious Workers, All Other",865,15691.3
+110,LGL,"Lawyers, And Judges, Magistrates, And Other Judicial",439,71730.43
+111,LGL,Judicial Law Clerks,27,30852.38
+112,LGL,Paralegals And Legal Assistants,2802,41968.38
+113,LGL,Miscellaneous Legal Support Workers,1970,42710.21
+114,EDU,Postsecondary Teachers,2128,26416.11
+115,EDU,Preschool And Kindergarten Teachers,5344,16736.17
+116,EDU,Elementary And Middle School Teachers,257,46898.21
+117,EDU,Secondary School Teachers,46,41965.85
+118,EDU,Special Education Teachers,790,23492.71
+119,EDU,Other Teachers And Instructors,9631,17865.17
+120,EDU,"Archivists, Curators, And Museum Technicians",270,20902.03
+121,EDU,Librarians,326,46646.1
+122,EDU,Library Technicians,1533,10887.52
+123,EDU,Teacher Assistants,24790,17526.61
+124,EDU,"Other Education, Training, And Library Workers",595,22284.98
+125,ENT,Artists And Related Workers,2231,30284.73
+126,ENT,Designers,6496,32936.01
+127,ENT,Actors,774,25411.91
+128,ENT,Producers And Directors,553,60216.06
+129,ENT,"Athletes, Coaches, Umpires, And Related Workers",6221,10530.08
+130,ENT,Dancers And Choreographers,516,21874.6
+131,ENT,"Musicians, Singers, And Related Workers",2549,24170.1
+132,ENT,"Entertainers And Performers, Sports And Related",728,23669.16
+133,ENT,Announcers,651,35443.56
+134,ENT,"News Analysts, Reporters And Corresponde",204,28341.5
+135,ENT,Broadcast And Sound Engineering Technicians And Radio,1363,40124.69
+136,ENT,Photographers,1873,22812.32
+137,ENT,"Television, Video, And Motion Picture Camera Operators",437,32770.03
+138,MED,Chiropractors,46,29020.59
+139,MED,Dentists,6,200200.0
+140,MED,Dietitians And Nutritionists,784,25341.01
+141,MED,Optometrists,3,93333.33
+142,MED,Pharmacists,13,67400.0
+143,MED,Physicians And Surgeons,129,247877.05
+144,MED,Physician Assistants,148,40133.33
+145,MED,Podiatrists,1,160000.0
+146,MED,Audiologists,18,36717.65
+147,MED,Occupational Therapists,47,55895.12
+148,MED,Physical Therapists,146,42831.58
+149,MED,Radiation Therapists,29,68703.7
+150,MED,Recreational Therapists,54,23415.62
+151,MED,Respiratory Therapists,145,48325.0
+152,MED,Speech,78,39031.14
+153,MED,"Other Therapists, Including Exercise Physiologists",299,25867.0
+154,MED,Veterinarians,4,79250.0
+155,MED,Registered Nurses,2485,48394.33
+156,MED,Nurse Anesthetists,21,86516.67
+157,MED,"Nurse Practitioners, And Nurse Midwives",47,81032.43
+158,MED,"Health Diagnosing And Treating Practitioners, All Other",71,26664.44
+159,MED,Clinical Laboratory Technologists And Technicians,2085,32007.4
+160,MED,Dental Hygienists,298,37429.16
+161,MED,Diagnostic Related Technologists And Technicians,1569,47565.21
+162,MED,Emergency Medical Technicians And Paramedics,1761,37280.81
+163,MED,Health Practitioner Support Technologists And,7745,28859.77
+164,MED,Licensed Practical And Licensed Vocational Nurses,11756,30968.58
+165,MED,Medical Records And Health Information Technicians,2311,31942.51
+166,MED,"Opticians, Dispensing",1014,31919.6
+167,MED,Miscellaneous Health Technologists And Technicians,1403,36917.88
+168,MED,Other Healthcare Practitioners And Technical,816,47459.38
+169,HLS,"Nursing, Psychiatric, And Home Health Aides",53133,20986.02
+170,HLS,Occupational Therapy Assistants And Aides,29,25073.57
+171,HLS,Physical Therapist Assistants And Aides,423,20387.68
+172,HLS,Massage Therapists,1999,21801.4
+173,HLS,Dental Assistants,4565,26082.91
+174,HLS,Medical Assistants,5911,25920.3
+175,HLS,Medical Transcriptionists,679,27023.76
+176,HLS,Pharmacy Aides,763,24241.84
+177,HLS,Veterinary Assistants And Laboratory Animal Caretakers,890,17801.88
+178,HLS,Phlebotomists,1406,27728.41
+179,HLS,"Healthcare Support Workers, All Other, Including",4198,20715.82
+180,PRT,First,1059,47275.36
+181,PRT,First,856,57792.64
+182,PRT,First,462,62529.35
+183,PRT,First,1067,41443.16
+184,PRT,Firefighters,3115,49917.22
+185,PRT,Fire Inspectors,315,43751.16
+186,PRT,"Bailiffs, Correctional Officers, And Jailers",8371,42951.25
+187,PRT,Detectives And Criminal Investigators,573,57194.88
+188,PRT,Miscellaneous Law Enforcement Workers,209,27247.47
+189,PRT,Police Officers,5771,49011.0
+190,PRT,Animal Control Workers,262,30499.63
+191,PRT,Private Detectives And Investigators,504,39912.89
+192,PRT,Security Guards And Gaming Surveillance Officers,22811,25411.73
+193,PRT,Crossing Guards,2570,15381.05
+194,PRT,Transportation Security Screeners,450,38644.23
+195,PRT,"Lifeguards And Other Recreational, And All Other",10130,4045.95
+196,EAT,Chefs And Head Cooks,7887,27388.18
+197,EAT,First,13246,22900.05
+198,EAT,Cooks,82429,13944.27
+199,EAT,Food Preparation Workers,32403,10358.27
+200,EAT,Bartenders,7698,18737.03
+201,EAT,"Combined Food Preparation And Serving Workers,",14227,11266.59
+202,EAT,"Counter Attendants, Cafeteria, Food Concession, And",9023,5619.06
+203,EAT,Waiters And Waitresses,54753,11917.68
+204,EAT,"Food Servers, Nonrestaurant",5930,14807.24
+205,EAT,Miscellaneous Food Preparation And Serving Related,13356,9163.16
+206,EAT,Dishwashers,14714,8505.12
+207,EAT,"Hosts And Hostesses, Restaurant, Lounge, And Coffee",10784,5931.53
+208,CLN,First,6109,35352.55
+209,CLN,First,3405,36637.83
+210,CLN,Janitors And Building Cleaners,97144,21059.79
+211,CLN,Maids And Housekeeping Cleaners,53521,16539.0
+212,CLN,Pest Control Workers,2026,32310.7
+213,CLN,Grounds Maintenance Workers,48196,17711.67
+214,PRS,First,706,35002.28
+215,PRS,First,1603,29033.58
+216,PRS,Animal Trainers,866,27363.97
+217,PRS,Nonfarm Animal Caretakers,6523,15238.22
+218,PRS,Gaming Services Workers,2522,28942.77
+219,PRS,Motion Picture Projectionists,92,20635.71
+220,PRS,"Ushers, Lobby Attendants, And Ticket Takers",1567,6243.28
+221,PRS,Miscellaneous Entertainment Attendants And Related,6842,8916.16
+222,PRS,Embalmers And Funeral Attendants,400,15409.94
+223,PRS,"Morticians, Undertakers, And Funeral Directors",258,26805.59
+224,PRS,Barbers,3186,19390.03
+225,PRS,"Hairdressers, Hairstylists, And Cosmetologists",23228,21113.43
+226,PRS,Miscellaneous Personal Appearance Workers,7308,18713.46
+227,PRS,"Baggage Porters, Bellhops, And Concierges",1731,27958.73
+228,PRS,Tour And Travel Guides,1181,12825.39
+229,PRS,Childcare Workers,38011,10613.07
+230,PRS,Personal Care Aides,37446,16209.54
+231,PRS,Recreation And Fitness Workers,9163,10197.79
+232,PRS,Residential Advisors,980,13991.27
+233,PRS,"Personal Care And Service Workers, All Other",3521,14859.88
+234,SAL,First,58263,39085.86
+235,SAL,First,17344,54236.38
+236,SAL,Cashiers,118370,10974.94
+237,SAL,Counter And Rental Clerks,2434,19547.68
+238,SAL,Parts Salespersons,3409,33995.67
+239,SAL,Retail Salespersons,77267,20473.57
+240,SAL,Advertising Sales Agents,1464,35439.78
+241,SAL,Insurance Sales Agents,5200,44029.89
+242,SAL,"Securities, Commodities, And Financial Services Sales",1176,56469.7
+243,SAL,Travel Agents,822,32851.78
+244,SAL,"Sales Representatives, Services, All Other",6734,43915.67
+245,SAL,"Sales Representatives, Wholesale And Manufacturing",16471,50800.99
+246,SAL,"Models, Demonstrators, And Product Promoters",2084,12938.98
+247,SAL,Real Estate Brokers And Sales Agents,7215,45895.62
+248,SAL,Sales Engineers,97,94826.74
+249,SAL,Telemarketers,2336,14642.01
+250,SAL,Door,4239,17733.28
+251,SAL,"Sales And Related Workers, All Other",4447,27161.9
+252,OFF,First,20762,43145.17
+253,OFF,"Switchboard Operators, Including Answering Service",808,23499.92
+254,OFF,Telephone Operators,985,25543.18
+255,OFF,"Communications Equipment Operators, All Other",169,32455.42
+256,OFF,Bill And Account Collectors,3092,29910.64
+257,OFF,Billing And Posting Clerks,9331,30358.02
+258,OFF,"Bookkeeping, Accounting, And Auditing Clerks",26287,32076.01
+259,OFF,Gaming Cage Workers,262,23435.45
+260,OFF,Payroll And Timekeeping Clerks,2970,36531.46
+261,OFF,Procurement Clerks,491,45908.65
+262,OFF,Tellers,7928,22895.98
+263,OFF,"Financial Clerks, All Other",1267,39747.52
+264,OFF,Brokerage Clerks,93,43442.59
+265,OFF,"Court, Municipal, And License Clerks",1480,32974.4
+266,OFF,"Credit Authorizers, Checkers, And Clerks",734,33823.44
+267,OFF,Customer Service Representatives,51583,22008.77
+268,OFF,"Eligibility Interviewers, Government Programs",755,37291.89
+269,OFF,File Clerks,7150,18505.68
+270,OFF,"Hotel, Motel, And Resort Desk Clerks",3028,17101.65
+271,OFF,"Interviewers, Except Eligibility And Loan",2328,22560.4
+272,OFF,"Library Assistants, Clerical",1763,14586.44
+273,OFF,Loan Interviewers And Clerks,1733,39393.42
+274,OFF,New Accounts Clerks,244,32090.26
+275,OFF,Correspondence Clerks And Order Clerks,3584,26739.58
+276,OFF,"Human Resources Assistants, Except Payroll And",906,33346.41
+277,OFF,Receptionists And Information Clerks,26823,19996.54
+278,OFF,Reservation And Transportation Ticket Agents And Travel,1947,32357.71
+279,OFF,"Information And Record Clerks, All Other",1971,22269.71
+280,OFF,Cargo And Freight Agents,406,34191.93
+281,OFF,Couriers And Messengers,5770,29958.52
+282,OFF,Dispatchers,5924,36562.64
+283,OFF,"Meter Readers, Utilities",867,36160.66
+284,OFF,Postal Service Clerks,2876,44411.29
+285,OFF,Postal Service Mail Carriers,7806,47013.3
+286,OFF,"Postal Service Mail Sorters, Processors, And Processing",1641,41473.86
+287,OFF,"Production, Planning, And Expediting Clerks",5074,41007.78
+288,OFF,"Shipping, Receiving, And Traffic Clerks",18346,28254.06
+289,OFF,Stock Clerks And Order Fillers,54175,18757.92
+290,OFF,"Weighers, Measurers, Checkers, And Samplers,",2479,29044.36
+291,OFF,Secretaries And Administrative Assistants,71979,29955.26
+292,OFF,Computer Operators,1653,32150.48
+293,OFF,Data Entry Keyers,7272,25434.11
+294,OFF,Word Processors And Typists,7857,26864.56
+295,OFF,Insurance Claims And Policy Processing Clerks,5641,34066.49
+296,OFF,"Mail Clerks And Mail Machine Operators, Except Postal",2516,22825.82
+297,OFF,"Office Clerks, General",27570,25535.72
+298,OFF,"Office Machine Operators, Except Computer",992,23316.59
+299,OFF,Proofreaders And Copy Markers,155,23701.93
+300,OFF,Statistical Assistants,356,39297.36
+301,OFF,Miscellaneous Office And Administrative Support,8097,32125.4
+302,FFF,First,1652,38633.63
+303,FFF,Agricultural Inspectors,301,37294.91
+304,FFF,"Graders And Sorters, Agricultural Products",2127,15407.94
+305,FFF,"Miscellaneous Agricultural Workers, Including Animal",31231,17602.56
+306,FFF,Fishing And Hunting Workers,2174,34657.65
+307,FFF,Forest And Conservation Workers,548,19552.74
+308,FFF,Logging Workers,3427,30401.51
+309,CON,First,24924,59926.41
+310,CON,Boilermakers,683,48427.68
+311,CON,"Brickmasons, Blockmasons, Stonemasons, And Reinforcing",5531,33422.89
+312,CON,Carpenters,39692,33609.93
+313,CON,"Carpet, Floor, And Tile Installers And Finishers",5129,29938.04
+314,CON,"Cement Masons, Concrete Finishers, And Terrazzo Workers",2324,33565.3
+315,CON,Construction Laborers,61370,28462.55
+316,CON,"Paving, Surfacing, And Tamping Equipment Operators",613,34113.42
+317,CON,"Construction Equipment Operators, Except Paving,",15896,44589.73
+318,CON,"Drywall Installers, Ceiling Tile Installers, And Tapers",4656,28966.19
+319,CON,Electricians,19620,45892.15
+320,CON,Glaziers,1403,38081.48
+321,CON,Insulation Workers,1371,37944.8
+322,CON,Painters And Paperhangers,18894,27482.83
+323,CON,"Pipelayers, Plumbers, Pipefitters, And Steamfitters",17798,43823.1
+324,CON,Plasterers And Stucco Masons,905,31470.92
+325,CON,Roofers,7531,25994.0
+326,CON,Sheet Metal Workers,4245,39633.61
+327,CON,Structural Iron And Steel Workers,2191,44439.05
+328,CON,"Helpers, Construction Trades",1861,20556.36
+329,CON,Construction And Building Inspectors,1611,47050.48
+330,CON,Elevator Installers And Repairers,630,79074.69
+331,CON,Fence Erectors,1072,24193.33
+332,CON,Hazardous Materials Removal Workers,911,34455.83
+333,CON,Highway Maintenance Workers,4766,35583.72
+334,CON,Rail,419,48196.41
+335,CON,"Miscellaneous Construction Workers, Including Solar",2104,32016.4
+336,EXT,"Derrick, Rotary Drill, And Service Unit Operators, And",1567,61387.75
+337,EXT,"Earth Drillers, Except Oil And Gas",1136,48553.73
+338,EXT,"Explosives Workers, Ordnance Handling Experts, And",468,35501.43
+339,EXT,Mining Machine Operators,2551,58984.14
+340,EXT,"Miscellaneous Extraction Workers, Including Roof",2815,50078.94
+341,RPR,First,6910,56339.44
+342,RPR,"Computer, Automated Teller, And Office Machine",2499,35299.69
+343,RPR,Radio And Telecommunications Equipment Installers And,3177,48026.42
+344,RPR,Avionics Technicians,366,36683.9
+345,RPR,"Electric Motor, Power Tool, And Related Repairers",722,42084.22
+346,RPR,"Electrical And Electronics Repairers, Transportation",385,46828.22
+347,RPR,"Electronic Equipment Installers And Repairers, Motor",286,33106.68
+348,RPR,Electronic Home Entertainment Equipment Installers And,920,36569.15
+349,RPR,Security And Fire Alarm Systems Installers,1232,41051.03
+350,RPR,Aircraft Mechanics And Service Technicians,3246,47593.93
+351,RPR,Automotive Body And Related Repairers,5110,39633.6
+352,RPR,Automotive Glass Installers And Repairers,618,31930.18
+353,RPR,Automotive Service Technicians And Mechanics,26188,35590.01
+354,RPR,Bus And Truck Mechanics And Diesel Engine Specialists,9982,41632.91
+355,RPR,Heavy Vehicle And Mobile Equipment Service Technicians,7174,48664.28
+356,RPR,Small Engine Mechanics,1799,29958.84
+357,RPR,"Miscellaneous Vehicle And Mobile Equipment Mechanics,",2792,24476.33
+358,RPR,Control And Valve Installers And Repairers,556,52388.24
+359,RPR,"Heating, Air Conditioning, And Refrigeration Mechanics",9873,41146.0
+360,RPR,Home Appliance Repairers,1238,35599.46
+361,RPR,Industrial And Refractory Machinery Mechanics,11548,46817.04
+362,RPR,"Maintenance And Repair Workers, General",16265,39726.56
+363,RPR,"Maintenance Workers, Machinery",997,44252.87
+364,RPR,Millwrights,1690,54028.83
+365,RPR,Electrical Power,3006,68238.6
+366,RPR,Telecommunications Line Installers And Repairers,3472,45198.29
+367,RPR,Precision Instrument And Equipment Repairers,1000,42840.39
+368,RPR,"Coin, Vending, And Amusement Machine Servicers And",1046,30029.15
+369,RPR,Locksmiths And Safe Repairers,808,37255.4
+370,RPR,Riggers,429,42649.77
+371,RPR,Helpers,845,19712.56
+372,RPR,"Miscellaneous Installation, Maintenance, And Repair",8085,35563.37
+373,PRD,First,25028,50959.18
+374,PRD,"Aircraft Structure, Surfaces, Rigging, And Systems",181,43732.43
+375,PRD,"Electrical, Electronics, And Electromechanical",4569,28695.36
+376,PRD,Engine And Other Machine Assemblers,445,38271.04
+377,PRD,Structural Metal Fabricators And Fitters,982,38960.12
+378,PRD,Miscellaneous Assemblers And Fabricators,36342,28200.66
+379,PRD,Bakers,6399,20056.04
+380,PRD,"Butchers And Other Meat, Poultry, And Fish Processing",8380,26837.4
+381,PRD,"Food And Tobacco Roasting, Baking, And Drying Machine",335,28947.52
+382,PRD,Food Batchmakers,2765,23551.21
+383,PRD,Food Cooking Machine Operators And Tenders,409,18899.15
+384,PRD,"Food Processing Workers, All Other",4376,30854.97
+385,PRD,Computer Control Programmers And Operators,2525,39535.38
+386,PRD,"Extruding And Drawing Machine Setters, Operators, And",467,36456.41
+387,PRD,"Forging Machine Setters, Operators, And Tenders, Metal",343,39119.72
+388,PRD,"Rolling Machine Setters, Operators, And Tenders, Metal",401,38321.06
+389,PRD,"Machine Tool Cutting Setters, Operators, And Tenders,",6128,32508.85
+390,PRD,Machinists,11696,43954.99
+391,PRD,"Metal Furnace Operators, Tenders, Pourers, And Casters",908,42688.93
+392,PRD,"Model Makers, Patternmakers, And Molding Machine",1695,34220.81
+393,PRD,Tool And Die Makers,1864,51468.25
+394,PRD,"Welding, Soldering, And Brazing Workers",22631,39042.53
+395,PRD,"Miscellaneous Metal Workers And Plastic Workers,",14951,34544.64
+396,PRD,Prepress Technicians And Workers,820,27606.92
+397,PRD,Printing Press Operators,5941,33911.53
+398,PRD,Print Binding And Finishing Workers,839,27826.93
+399,PRD,Laundry And Dry,7022,18454.9
+400,PRD,"Pressers, Textile, Garment, And Related Materials",1486,19620.91
+401,PRD,Sewing Machine Operators,6744,21237.93
+402,PRD,Shoe And Leather Workers,480,24137.48
+403,PRD,"Tailors, Dressmakers, And Sewers",2063,22389.55
+404,PRD,"Textile Bleaching And Dyeing, And Cutting Machine",360,25020.53
+405,PRD,"Textile Knitting And Weaving Machine Setters,",358,25849.7
+406,PRD,"Textile Winding, Twisting, And Drawing Out Machine",454,23779.83
+407,PRD,Upholsterers,1296,27802.53
+408,PRD,"Miscellaneous Textile, Apparel, And Furnishings",643,26947.85
+409,PRD,Cabinetmakers And Bench Carpenters,1912,30969.19
+410,PRD,Furniture Finishers,441,25975.4
+411,PRD,"Sawing Machine Setters, Operators, And Tenders, Wood",1516,26838.41
+412,PRD,"Woodworking Machine Setters, Operators, And Tenders,",933,24162.2
+413,PRD,"Miscellaneous Woodworkers, Including Model Makers And",985,27476.65
+414,PRD,"Power Plant Operators, Distributors, And Dispatchers",1033,75353.14
+415,PRD,Stationary Engineers And Boiler Operators,2425,54871.67
+416,PRD,Water And Wastewater Treatment Plant And System,2386,43748.65
+417,PRD,Miscellaneous Plant And System Operators,1253,59629.72
+418,PRD,"Chemical Processing Machine Setters, Operators, And",1388,47521.83
+419,PRD,"Crushing, Grinding, Polishing, Mixing, And Blending",3015,35365.02
+420,PRD,Cutting Workers,2856,24440.63
+421,PRD,"Extruding, Forming, Pressing, And Compacting Machine",1180,31890.55
+422,PRD,"Furnace, Kiln, Oven, Drier, And Kettle Operators And",444,39922.43
+423,PRD,"Inspectors, Testers, Sorters, Samplers, And Weighers",21948,34135.28
+424,PRD,Jewelers And Precious Stone And Metal Workers,918,32522.37
+425,PRD,"Medical, Dental, And Ophthalmic Laboratory Technicians",1611,32830.62
+426,PRD,Packaging And Filling Machine Operators And Tenders,9602,23307.58
+427,PRD,Painting Workers,4928,35486.71
+428,PRD,Photographic Process Workers And Processing Machine,686,23191.17
+429,PRD,Adhesive Bonding Machine Operators And Tenders,389,30142.43
+430,PRD,Etchers And Engravers,287,27535.55
+431,PRD,"Molders, Shapers, And Casters, Except Metal And Plastic",893,33560.4
+432,PRD,"Paper Goods Machine Setters, Operators, And Tenders",1035,37646.46
+433,PRD,Tire Builders,492,42203.35
+434,PRD,Helpers,1813,18506.13
+435,PRD,"Miscellaneous Production Workers, Including",43928,31051.96
+436,TRN,Supervisors Of Transportation And Material Moving,5195,48271.14
+437,TRN,Aircraft Pilots And Flight Engineers,500,83287.75
+438,TRN,Air Traffic Controllers And Airfield Operations,306,65649.19
+439,TRN,Flight Attendants,788,40838.43
+440,TRN,"Ambulance Drivers And Attendants, Except Emergency",367,23001.17
+441,TRN,Bus Drivers,19649,24493.19
+442,TRN,Driver/Sales Workers And Truck Drivers,122131,38390.64
+443,TRN,Taxi Drivers And Chauffeurs,10175,23291.01
+444,TRN,"Motor Vehicle Operators, All Other",1858,17978.96
+445,TRN,Locomotive Engineers And Operators,1223,73394.43
+446,TRN,Railroad Conductors And Yardmasters,1226,64134.12
+447,TRN,"Subway, Streetcar, And Other Rail Transportation",535,55473.24
+448,TRN,"Sailors And Marine Oilers, And Ship Engineers",1021,40582.77
+449,TRN,Ship And Boat Captains And Operators,1169,65627.36
+450,TRN,Parking Lot Attendants,2405,16175.39
+451,TRN,Automotive And Watercraft Service Attendants,3551,17851.27
+452,TRN,Transportation Inspectors,1016,48324.38
+453,TRN,"Transportation Attendants, Except Flight Attendants",889,20687.61
+454,TRN,"Miscellaneous Transportation Workers, Including Bridge",653,39477.97
+455,TRN,Crane And Tower Operators,2394,55930.0
+456,TRN,"Dredge, Excavating, And Loading Machine Operators",1620,41510.56
+457,TRN,"Conveyor Operators And Tenders, And Hoist And Winch",582,39707.83
+458,TRN,Industrial Truck And Tractor Operators,20945,30827.51
+459,TRN,Cleaners Of Vehicles And Equipment,14062,17398.3
+460,TRN,"Laborers And Freight, Stock, And Material Movers, Hand",86112,22536.81
+461,TRN,Machine Feeders And Offbearers,1143,24336.45
+462,TRN,"Packers And Packagers, Hand",17874,17054.31
+463,TRN,Pumping Station Operators,1053,51956.39
+464,TRN,Refuse And Recyclable Material Collectors,4184,24775.67
+465,TRN,"Miscellaneous Material Moving Workers, Including Mine",1947,34751.1
+466,MIL,Military Officer Special And Tactical Operations,263,34649.09
+467,MIL,First,698,41128.08
+468,MIL,Military Enlisted Tactical Operations And Air/Weapons,4117,19789.92
+469,MIL,"Military, Rank Not Specified",3943,29985.14
+470,UNP,Unemployed And Last Worked 5 Years Ago Or Earlier Or Never,54447,
