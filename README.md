@@ -19,7 +19,7 @@ First class project
 1. What are the 10 highest paying degrees?
 1. What are the 10 lowest paying degrees?
 1. How many men and women are pursuing a particular college degree? 
-1. How does the expected median salary of a particular degree compare with the average salary in Florida?
+1. How does the expected median salary of a particular degree compare with the average salary in the USA?
 1. Which college degrees have the largest amount of people working in jobs that do not require a college degree? 
 	
 ### What kind of data do we want?
